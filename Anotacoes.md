@@ -1,6 +1,6 @@
-Primeiros passos com JavaScript
+# Primeiros passos com JavaScript
 
-Variáveis e Operadores
+## Variáveis e Operadores
 
 node nomedoarquivo.ext = roda o programa no terminal
 
@@ -12,7 +12,7 @@ a variavel passa o valor dela podendo ser: número, string etc...
 let é o valor mutavel
 const é constante
 
-Bloco de comentarios 
+### Bloco de comentarios 
 /*   */ - oculta um bloco de texto no terminal
 // - oculta a linha do texto no terminal
 
