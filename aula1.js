@@ -13,5 +13,5 @@ let totalCombustivelGasto = distancia/gastoKM;
 
 let valorTotalGasto = totalCombustivelGasto*valorCombustivel;
 
-console.log(`${totalCombustivelGasto} litros`);
-console.log(`${valorTotalGasto} Reais`);
+console.log(`Quantidade de combustível necessaria ${totalCombustivelGasto} litros`);
+console.log(`Valor da Gasolina da Viagem ${valorTotalGasto} Reais`);
