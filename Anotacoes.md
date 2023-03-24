@@ -22,3 +22,6 @@ ex: string (texto), numero, etc...
 console.log(`texto ${variavel}`);
 esse comando printa o valor da variavel e o texto, vc pode mudar o texto de posição.
 
+Arredondar o número
+console.log(valorTotalGasto.toFixed(2));
+quantidade de número após a vírgula
