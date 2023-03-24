@@ -6,15 +6,12 @@
 Imprima no console o valor que será gasto para realizar a viagem.
 */
 
-
-
 let valorCombustivel = 5.90;
 let gastoKM = 16;
 let distancia = 400;
-let valor_ = 0
 let totalCombustivelGasto = distancia/gastoKM;
 
 let valorTotalGasto = totalCombustivelGasto*valorCombustivel;
 
-console.log(totalCombustivelGasto);
-console.log(valorTotalGasto);
+console.log(`${totalCombustivelGasto} litros`);
+console.log(`${valorTotalGasto} Reais`);
