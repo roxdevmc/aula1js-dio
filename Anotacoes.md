@@ -1,4 +1,4 @@
-# Primeiros passos com JavaScript
+# Primeiros passos com JavaScript 24/03/2023
 
 ### Variáveis e Operadores
 
