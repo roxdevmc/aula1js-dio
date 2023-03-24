@@ -1,6 +1,6 @@
 # Primeiros passos com JavaScript
 
-## Variáveis e Operadores
+### Variáveis e Operadores
 
 node nomedoarquivo.ext = roda o programa no terminal
 
