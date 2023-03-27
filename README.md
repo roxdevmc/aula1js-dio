@@ -7,3 +7,5 @@ A possibilidade de tirar a duvida de forma mais pratica e rapida não trava o ra
 
 ## Links úteis
 [ChatGTP](https://chat.openai.com/chat)
+
+[MDN Web Docs - Guia de estudos](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_operators)
