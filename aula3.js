@@ -1,4 +1,4 @@
-/* Aula dia 26/03/2023
+/* Aula JavaScript dia 26/03/2023
 
     1) Faça um algoritimo que dado as 3 notas tiradas por um aluno em um semestre da faculdade, 
     calcule e imprima sua média e sua classificação conforme a tabela a baixo.
