@@ -20,7 +20,7 @@ const media = (nota1 + nota2 + nota3)/3;
 // se a média for menor que 5 é igual a reprovação
 // se não se a media for entre 5 e 7 é igual a recuperação
 // se não se a media for acima de 7 é igual a aprovado 
-// && quer fizer e, ou seja as duas condições colocadas tem que ser verdadeiras
+// && quer dizer e, ou seja as duas condições colocadas tem que ser verdadeiras
 
 
 if(media < 5){
