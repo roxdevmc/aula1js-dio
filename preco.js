@@ -11,6 +11,12 @@ Código Condição de Pagamento:
 - Em duas vezes, preço normal da etiqueta sem juros;
 - Acima de duas vezes, preço da etiqueta mais juros de 10%;
 */
+ 
+//////////////////////////////////////////////////////////////////
+
+/*
+Nesse codigo, vai printar todos os valores final respectivos 
+a forma de pagamento escolhida.
 
 const preco = 10;
 
@@ -19,8 +25,31 @@ const dinheiroPIX = preco - (preco * 0.15);
 const duasVezes = preco;
 const maisVezes = preco + (preco * 0.10);
 
-console.log (`Valor no Débito é R$${debito}`);
-console.log (`Valor no Dinheiro ou PIX é R$${dinheiroPIX}`);
-console.log (`Valor em 2x sem juros é R$${duasVezes}`);
-console.log (`Valor acima de 2x é R$${maisVezes}`);
+console.log (`Valor no Débito é R$${debito} reais`);
+console.log (`Valor no Dinheiro ou PIX é R$${dinheiroPIX} reais`);
+console.log (`Valor em 2x sem juros é R$${duasVezes} reais`);
+console.log (`Valor acima de 2x é R$${maisVezes} reais`);
 
+*/
+
+/////////////////////////////////////////////////////
+
+// esse codigo vai mostrar somente o valor de uma forma de pagamento escolhida
+const preco = 10;
+const pagamento = 3;
+
+
+if (pagamento === 1) {
+    console.log (`O valor é R$${preco - (preco * 0.1)} reais`); 
+} 
+
+else if (pagamento === 2){
+    console.log(`O valor é R$${preco - (preco * 0.15)} reais`);
+}
+else if (pagamento === 3) {
+    console.log(`O valor é R$${preco} reais`);
+}
+
+else if (pagamento === 4){
+    console.log(`O valor é R$${preco + (preco * 0.10)} reais`);
+}
