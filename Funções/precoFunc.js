@@ -24,7 +24,7 @@ if (pagamento === 1) {
     console.log(`O valor é R$${preco + (preco * 0.10)} reais`);
 }
 */
-/// o USUARIO NOJENTO pode passar o valor do desconto como 10,20 e bla bla e nao 0.1, fazendo uma funcao so e nao 3 if else
+/// o USUARIO  pode passar o valor do desconto como 10,20 e bla bla e nao 0.1, fazendo uma funcao so e nao 3 if else
 
 const valor = 10;
 const pagamento = 3
