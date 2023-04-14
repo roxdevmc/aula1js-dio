@@ -1,5 +1,4 @@
 const botao = document.querySelector('[data-input="botao"]')
-
 function rodarfuncao(event){
     event.preventDefault()
 
