@@ -27,9 +27,12 @@ class Carros {
 }
 
 const march = new Carros('nissan', 'azul', 16);
-// precisa passar a string separada, uma pra cada parametro declarado.
+// precisa passar a string separada por , uma pra cada parametro declarado.
 
+console.log(`Seu carro é ${march.marca}, a cor é ${march.cor}`);
 console.log(march.resultado(5, 160));
 
 
-
+/*Seu carro é ____________, a cor é ________, gasto medio de Km/litro é ________ ,
+seu gasto para essa viagem vai ser _________ . */
+ 
